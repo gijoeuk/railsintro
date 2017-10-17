@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   resources :articles
 
-  root 'weclome#index'
+  root 'welcome#index'
 end
